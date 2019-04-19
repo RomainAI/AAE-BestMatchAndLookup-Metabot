@@ -1,0 +1,6 @@
+C:\Users\Romain.Alexandre\source\repos\StringMatchUtility\StringMatchUtility\bin\Debug\StringMatchUtility.dll
+C:\Users\Romain.Alexandre\source\repos\StringMatchUtility\StringMatchUtility\bin\Debug\StringMatchUtility.pdb
+C:\Users\Romain.Alexandre\source\repos\StringMatchUtility\StringMatchUtility\obj\Debug\StringMatchUtility.csprojAssemblyReference.cache
+C:\Users\Romain.Alexandre\source\repos\StringMatchUtility\StringMatchUtility\obj\Debug\StringMatchUtility.csproj.CoreCompileInputs.cache
+C:\Users\Romain.Alexandre\source\repos\StringMatchUtility\StringMatchUtility\obj\Debug\StringMatchUtility.dll
+C:\Users\Romain.Alexandre\source\repos\StringMatchUtility\StringMatchUtility\obj\Debug\StringMatchUtility.pdb
