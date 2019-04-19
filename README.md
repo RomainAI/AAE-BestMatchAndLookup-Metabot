@@ -7,6 +7,7 @@ Lookup functionality
 
 Best Match and Lookup metabot can be used to get the best match between two values and to lookup in an external CSV file.
 Go to My MetaBots folder, download the mbot file and add it to your AA Client's MyMetabots folder, and you are ready to go.
+
 My Tasks folder contains an example on how to use the metatbot, you'll need to copy "External_Validation_List" folder in your "My Docs" folder.
 
 ## Prerequisites
